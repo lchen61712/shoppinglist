@@ -1,0 +1,56 @@
+img{
+	padding-left:30em;
+	padding-top:2em;
+	border:0;
+	margin:0;
+	max-width:5em;
+	display:inline-block;
+	float:left;
+}
+body{
+	text-align:center;
+	background-color:black;
+	font-family:'Permanent Marker', cursive;
+	border:0;
+	margin:0;
+}
+div{
+	padding:0 40em;
+}
+#shoppingtitle{
+	margin:0;
+	width:auto;
+	padding-left:0;
+}
+.title{
+	color:white;
+	width:auto;
+	margin:0;
+	padding-top:1em;	
+/*  border-color:blue;
+	border-style:solid;
+	border-width:0.02em;*/
+}
+ul{
+	list-style-type: none;
+	margin-top:0.5em;
+}
+.shoppinglist{
+	padding:0;
+}
+#need-list{
+	color:red;
+}
+#have-list{
+	color:green;
+}
+/*  div{
+	border-color:yellow;
+	border-style:solid;
+	border-width:0.02em;
+}
+li{
+	border-color:orange;
+	border-style:solid;
+	border-width:0.02em;
+}*/
